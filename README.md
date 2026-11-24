@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/config Builder.png" alt="Black Fox Config Builder" width="96">
+  <img src="docs/assets/config Builder.png" alt="Config Builder" width="96">
 </p>
 
 <h1 align="center"><a href="https://apkpure.com/p/net.foxnext.configbuilder">Black Fox Config Builder</a></h1>
