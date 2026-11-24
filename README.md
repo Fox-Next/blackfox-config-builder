@@ -2,7 +2,7 @@
   <img src="docs/assets/config Builder.png" alt="Config Builder" width="96">
 </p>
 
-<h1 align="center"><a href="https://apkpure.com/p/net.foxnext.configbuilder">Black Fox Config Builder</a></h1>
+<h1 align="center"><a href="https://apkpure.com/p/net.foxnext.configbuilder">Config Builder</a></h1>
 
 <p align="center">
   <strong>Android companion for 3X-UI panel config creation</strong><br>
