@@ -12,7 +12,7 @@ With this app, you no longer need the classic browser login workflow to build co
 
 - Android 7.0 or newer (API 24+)  
 - 3X-UI panel version **3.3.0 or newer**  
-- Panel credentials from **Panel Login Info** in Black Fox Vpn Installer / BlackFox Vpn Android  
+- Panel credentials from **Panel Login Info** in VPS to VPN (Windows) / VPS to VPN Android  
 
 ---
 
@@ -122,4 +122,4 @@ The **Contact** tab includes website, email, GitHub, and Telegram links (channel
 
 ---
 
-© Black Fox Security Team
+© Fox Next

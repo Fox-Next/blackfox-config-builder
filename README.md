@@ -20,14 +20,14 @@
   <a href="https://foxnext.net">Website</a> •
   <a href="https://apkpure.com/p/net.foxnext.configbuilder"><strong>APKPure</strong></a> •
   <a href="https://foxnext.net/downloads/Black-Fox-Config-Builder.apk">Website APK</a> •
-  <a href="https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk"><strong>Download APK (arm64)</strong></a> •
-  <a href="https://github.com/Fox-Nexxt/VPS-to-VPN">VPS to VPN</a> •
-  <a href="https://t.me/HiblackFox">Telegram</a>
+  <a href="https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk"><strong>Download APK (arm64)</strong></a> •
+  <a href="https://github.com/Fox-Next/VPS-to-VPN">VPS to VPN</a> •
+  <a href="https://t.me/HiFoxnext">Telegram</a>
 </p>
 
 | Platform | Product | Version | Arch | Download |
 |----------|---------|---------|------|----------|
-| Android | **[Config Builder](https://apkpure.com/p/net.foxnext.configbuilder)** | **v1.1.4 (Build 9)** | **arm64-v8a** | [APKPure](https://apkpure.com/p/net.foxnext.configbuilder) · [Website APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) · [GitHub APK](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
+| Android | **[Config Builder](https://apkpure.com/p/net.foxnext.configbuilder)** | **v1.1.4 (Build 9)** | **arm64-v8a** | [APKPure](https://apkpure.com/p/net.foxnext.configbuilder) · [Website APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) · [GitHub APK](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
 
 - Package ID: `net.foxnext.configbuilder`
 - Minimum Android: API 24 (Android 7.0+)
@@ -38,7 +38,7 @@
 
 ## English
 
-[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) is an Android companion app in the Black Fox product family.
+[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) is an Android companion app in the Fox Next product family.
 
 It is **not** a VPN client and **not** a server installer.  
 It connects to an existing **3X-UI (Sanaei)** panel and creates client configs from the phone.
@@ -46,7 +46,7 @@ It connects to an existing **3X-UI (Sanaei)** panel and creates client configs f
 **Download (arm64 / 64-bit phones):**  
 - **APKPure:** [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) is published on APKPure — you can also download it from there.
 - **Website:** [Config-Builder.apk (foxnext.net)](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk)
-- **GitHub:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
+- **GitHub:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
 
 This app is **free and open source**. If it helps you, please **Star** the repository.
 
@@ -77,16 +77,16 @@ Source is in [`android/`](android/) (Flutter UI + Go/gomobile 3X-UI client).
 | Website | [foxnext.net](https://foxnext.net) |
 | APKPure | [Config Builder](https://apkpure.com/p/net.foxnext.configbuilder) |
 | Website APK | [foxnext.net/downloads](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
-| GitHub APK (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
+| GitHub APK (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
 | User guide (EN) | [docs/GUIDE.en.md](docs/GUIDE.en.md) |
 | User guide (FA) | [docs/GUIDE.fa.md](docs/GUIDE.fa.md) |
-| Telegram | [@HiblackFox](https://t.me/HiblackFox) |
+| Telegram | [@HiFoxnext](https://t.me/HiFoxnext) |
 
 ---
 
 ## فارسی
 
-برنامه [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) ابزار همراه اندروید در خانواده Black Fox است.
+برنامه [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) ابزار همراه اندروید در خانواده Fox Next است.
 
 این برنامه **کلاینت VPN** نیست و **نصب‌کننده سرور** هم نیست.  
 به پنل موجود **3X-UI** وصل می‌شود و از روی گوشی کانفیگ می‌سازد.
@@ -94,7 +94,7 @@ Source is in [`android/`](android/) (Flutter UI + Go/gomobile 3X-UI client).
 **دانلود (معماری arm64 / گوشی ۶۴بیتی):**  
 - **APKPure:** برنامه [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) در سایت APKPure منتشر شده است و از آنجا هم می‌توانید دانلود کنید.
 - **سایت رسمی:** [دانلود مستقیم از foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk)
-- **گیت‌هاب:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
+- **گیت‌هاب:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
 
 این برنامه **رایگان و متن‌باز** است. اگر مفید بود، در گیت‌هاب **Star** بزنید.
 
@@ -124,15 +124,15 @@ Source is in [`android/`](android/) (Flutter UI + Go/gomobile 3X-UI client).
 | وب‌سایت | [foxnext.net](https://foxnext.net) |
 | APKPure | [Config Builder](https://apkpure.com/p/net.foxnext.configbuilder) |
 | APK سایت رسمی | [foxnext.net/downloads](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
-| APK گیت‌هاب (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
+| APK گیت‌هاب (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
 | راهنما | [docs/GUIDE.fa.md](docs/GUIDE.fa.md) |
-| تلگرام | [@HiblackFox](https://t.me/HiblackFox) |
+| تلگرام | [@HiFoxnext](https://t.me/HiFoxnext) |
 
 ---
 
 ## 中文
 
-[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) 是 Black Fox 系列中的 Android 配套应用。
+[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) 是 Fox Next 系列中的 Android 配套应用。
 
 它**不是** VPN 客户端，也**不是**服务器安装程序。  
 它连接已有的 **3X-UI** 面板，在手机上创建客户端配置。
@@ -140,7 +140,7 @@ Source is in [`android/`](android/) (Flutter UI + Go/gomobile 3X-UI client).
 **下载（arm64 / 64 位手机）：**  
 - **APKPure：** [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) 已发布至 APKPure，您也可以从那里下载。
 - **官方网站：** [从 foxnext.net 下载](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk)
-- **GitHub：** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
+- **GitHub：** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
 
 本应用**免费开源**。如果对你有帮助，请给仓库点 **Star**。
 
@@ -170,15 +170,15 @@ Android 7.0 及以上。面板需 **3X-UI 3.3.0 或更高**。
 | 网站 | [foxnext.net](https://foxnext.net) |
 | APKPure | [Config Builder](https://apkpure.com/p/net.foxnext.configbuilder) |
 | 官网 APK | [foxnext.net/downloads](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
-| GitHub APK（arm64） | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
+| GitHub APK（arm64） | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
 | 用户指南 | [docs/GUIDE.en.md](docs/GUIDE.en.md) |
-| Telegram | [@HiblackFox](https://t.me/HiblackFox) |
+| Telegram | [@HiFoxnext](https://t.me/HiFoxnext) |
 
 ---
 
 ## Русский
 
-[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) — Android-приложение семейства Black Fox.
+[**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) — Android-приложение семейства Fox Next.
 
 Это **не** VPN-клиент и **не** установщик сервера.  
 Оно подключается к существующей панели **3X-UI** и создаёт клиентские конфиги с телефона.
@@ -186,7 +186,7 @@ Android 7.0 及以上。面板需 **3X-UI 3.3.0 或更高**。
 **Скачать (arm64 / 64-битные телефоны):**  
 - **APKPure:** Приложение [**Config Builder**](https://apkpure.com/p/net.foxnext.configbuilder) опубликовано на APKPure — вы также можете скачать его оттуда.
 - **Официальный сайт:** [Скачать с foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk)
-- **GitHub:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
+- **GitHub:** [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk)
 
 Приложение **бесплатное и с открытым исходным кодом**. Если оно полезно, поставьте **Star**.
 
@@ -216,9 +216,9 @@ Android 7.0 и выше. Панель **3X-UI 3.3.0 или новее**.
 | Сайт | [foxnext.net](https://foxnext.net) |
 | APKPure | [Config Builder](https://apkpure.com/p/net.foxnext.configbuilder) |
 | APK с сайта | [foxnext.net/downloads](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
-| GitHub APK (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Nexxt/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
+| GitHub APK (arm64) | [Config-Builder-arm64-v8a.apk](https://github.com/Fox-Next/blackfox-config-builder/releases/latest/download/Black-Fox-Config-Builder-arm64-v8a.apk) |
 | Руководство | [docs/GUIDE.en.md](docs/GUIDE.en.md) |
-| Telegram | [@HiblackFox](https://t.me/HiblackFox) |
+| Telegram | [@HiFoxnext](https://t.me/HiFoxnext) |
 
 ---
 
@@ -240,8 +240,8 @@ Android 7.0 и выше. Панель **3X-UI 3.3.0 или новее**.
 
 ## Support
 
-- Telegram: [https://t.me/HiblackFox](https://t.me/HiblackFox)  
+- Telegram: [https://t.me/HiFoxnext](https://t.me/HiFoxnext)  
 - Website: [https://foxnext.net](https://foxnext.net)  
 - Email: support@foxnext.net  
 
-© Black Fox Security Team
+© Fox Next

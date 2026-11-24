@@ -12,7 +12,7 @@
 
 - اندروید ۷ به بالا (API 24)  
 - پنل 3X-UI نسخه **۳.۳.۰ یا جدیدتر**  
-- اطلاعات ورود از بخش **Panel Login Info** در برنامه **Black Fox Vpn Installer** یا **BlackFox Vpn Android**  
+- اطلاعات ورود از بخش **Panel Login Info** در برنامه **VPS to VPN** (ویندوز) یا **VPS to VPN Android**  
 
 ---
 
@@ -122,4 +122,4 @@
 
 ---
 
-© Black Fox Security Team
+© Fox Next

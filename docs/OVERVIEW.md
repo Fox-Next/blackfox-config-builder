@@ -9,7 +9,7 @@
 * **نسخه کنونی (Version):** `1.1.4+9` (`versionName: 1.1.4`, `versionCode: 9`)
 * **سیستم‌عامل هدف:** اندروید (حداقل Android 6.0 / API 23 تا Android 14+ / API 34+)
 * **پلتفرم و معماری توسعه:** هیبرید فلاتر + گو (`Flutter 3.3+` + `Go 1.22+ via gomobile`)
-* **اکوسیستم:** Black Fox / foxnext.net
+* **اکوسیستم:** Fox Next / foxnext.net
 
 ---
 
